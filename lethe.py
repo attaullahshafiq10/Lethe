@@ -1,3 +1,5 @@
+# AUM
+
 
 import os
 import subprocess
@@ -29,7 +31,7 @@ def main():
  \ \_____\  \ \_____\    \ \_\  \ \_\ \_\  \ \_____\ 
   \/_____/   \/_____/     \/_/   \/_/\/_/   \/_____/ 
                                         
-    by Hades921                               
+    by ATTAULLAH SHAFIQ                               
 
 """)
     print(logo)
