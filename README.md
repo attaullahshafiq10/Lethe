@@ -1,9 +1,6 @@
 # tethe-python
 
-# Lethe
 
-[logo]: https://i.imgur.com/BFzx8y4.png "Logo Lethe"
-![logo]
 ## Table of contents
 * [General info](#general-info)
 * [Setup](#setup)
