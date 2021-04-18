@@ -1,0 +1,16 @@
+colorama
+pyfiglet
+termcolor
+slowloris
+ipwhois
+Sslscan
+python-whois
+requests
+argparse
+google
+simple_geoip
+requests_html
+scapy
+beautifulsoup4
+pygeoip
+python3-nmap
