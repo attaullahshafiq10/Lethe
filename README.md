@@ -1,4 +1,4 @@
-# tethe-python
+# Lethe-python
 
 
 ## Table of contents
